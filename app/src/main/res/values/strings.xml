@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTummyIsGrowling</string>
+
+    <string name="hello_world">Hello Andrew, Carl and Kenneth!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_profile">CreateProfile</string>
+</resources>
